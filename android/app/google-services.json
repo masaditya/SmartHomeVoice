@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855597747169",
+    "firebase_url": "https://fabelio-efaba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fabelio-efaba",
+    "storage_bucket": "fabelio-efaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855597747169:android:3a3d47d4fbed712f70e0a0",
+        "android_client_info": {
+          "package_name": "com.smarthomevoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855597747169-11h0v8pp0mcvsdj2b60m3ktpqroic71m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNq387XM8r7NGyBeH5qPjPwXm7tVZ88M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855597747169-11h0v8pp0mcvsdj2b60m3ktpqroic71m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
